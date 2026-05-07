@@ -1,0 +1,8 @@
+[374443:374443:0507/181308.363956:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[374443:374443:0507/181308.521472:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[374443:375002:0507/181315.144654:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[374443:374443:0507/181315.195999:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[374443:374443:0507/181315.196133:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[374443:374443:0507/181315.196177:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[374443:374443:0507/181315.196214:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[374443:375002:0507/181315.200118:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
