@@ -6,7 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/ThirdPerson/Blueprints/BP_Projetil.uasset",
-				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/ThirdPerson/Blueprints/WBP_HUD.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/FirstPerson/MI_FirstPersonColorway.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/Weapons/Pistol/Meshes/SM_Pistol.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/crosshair.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Equip.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Unequip.uasset"
 			]
 		}
 	]

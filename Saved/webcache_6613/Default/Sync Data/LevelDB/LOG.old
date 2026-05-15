@@ -1,2 +1,3 @@
-2026/05/02-16:08:28.689 6c2f5 Creating DB /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/Sync Data/LevelDB since it was missing.
-2026/05/02-16:08:28.702 6c2f5 Reusing MANIFEST /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/05/15-12:21:49.772 28f1 Reusing MANIFEST /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/05/15-12:21:49.772 28f1 Recovering log #3
+2026/05/15-12:21:49.772 28f1 Reusing old log /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/Sync Data/LevelDB/000003.log 

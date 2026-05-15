@@ -1,2 +1,3 @@
-2026/05/07-18:13:11.315 5b8d8 Creating DB /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/shared_proto_db/metadata since it was missing.
-2026/05/07-18:13:11.621 5b8d8 Reusing MANIFEST /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/shared_proto_db/metadata/MANIFEST-000001
+2026/05/15-15:43:32.412 53fe2 Reusing MANIFEST /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/shared_proto_db/metadata/MANIFEST-000001
+2026/05/15-15:43:32.412 53fe2 Recovering log #3
+2026/05/15-15:43:32.412 53fe2 Reusing old log /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/shared_proto_db/metadata/000003.log 
