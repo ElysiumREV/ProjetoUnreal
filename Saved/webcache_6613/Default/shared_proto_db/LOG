@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2026/05/17-10:44:42.451 3352 Reusing MANIFEST /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/shared_proto_db/MANIFEST-000001
 2026/05/17-10:44:42.451 3352 Recovering log #3
 2026/05/17-10:44:42.453 3352 Reusing old log /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/shared_proto_db/000003.log 
+=======
+2026/05/16-12:18:10.436 2c60 Reusing MANIFEST C:\Users\jeany\OneDrive\Documentos\Unreal Projects\ProjetoUnreal\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/05/16-12:18:10.444 2c60 Recovering log #3
+2026/05/16-12:18:10.445 2c60 Reusing old log C:\Users\jeany\OneDrive\Documentos\Unreal Projects\ProjetoUnreal\Saved\webcache_6613\Default\shared_proto_db/000003.log 
+>>>>>>> 1647321072d8b9b97bc7f42e73f7828ddcc5a695
