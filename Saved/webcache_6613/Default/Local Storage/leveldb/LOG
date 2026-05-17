@@ -1,3 +1,5 @@
-2026/05/15-15:43:30.177 54001 Reusing MANIFEST /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/15-15:43:30.181 54001 Recovering log #4
-2026/05/15-15:43:30.181 54001 Reusing old log /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/Local Storage/leveldb/000004.log 
+2026/05/17-10:44:39.901 337a Reusing MANIFEST /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/17-10:44:39.907 337a Recovering log #4
+2026/05/17-10:44:39.908 337a Level-0 table #6: started
+2026/05/17-10:44:39.912 337a Level-0 table #6: 64248 bytes OK
+2026/05/17-10:44:39.917 337a Delete type=0 #4
