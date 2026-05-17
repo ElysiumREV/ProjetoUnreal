@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-2026/05/17-10:44:39.894 3350 Reusing MANIFEST /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/Sync Data/LevelDB/MANIFEST-000001
-2026/05/17-10:44:39.895 3350 Recovering log #3
-2026/05/17-10:44:39.895 3350 Reusing old log /home/ely/Documents/Unreal Projects/ProjetoRobson/Saved/webcache_6613/Default/Sync Data/LevelDB/000003.log 
-=======
-2026/05/16-12:18:05.783 3170 Reusing MANIFEST C:\Users\jeany\OneDrive\Documentos\Unreal Projects\ProjetoUnreal\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
-2026/05/16-12:18:05.798 3170 Recovering log #3
-2026/05/16-12:18:05.799 3170 Reusing old log C:\Users\jeany\OneDrive\Documentos\Unreal Projects\ProjetoUnreal\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
->>>>>>> 1647321072d8b9b97bc7f42e73f7828ddcc5a695
+2026/05/17-15:42:07.660 3f2c Reusing MANIFEST C:\Users\jeany\OneDrive\Documentos\Unreal Projects\ProjetoUnreal\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/17-15:42:07.661 3f2c Recovering log #3
+2026/05/17-15:42:07.661 3f2c Reusing old log C:\Users\jeany\OneDrive\Documentos\Unreal Projects\ProjetoUnreal\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
