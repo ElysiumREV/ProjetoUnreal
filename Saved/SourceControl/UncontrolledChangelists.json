@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"version": 1,
 	"changelists": [
@@ -28,4 +29,61 @@
 			]
 		}
 	]
+=======
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Anims/running_crawl.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Anims/zombie_attack.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Anims/zombie_biting__2_.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Anims/zombie_biting.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Anims/zombie_crawl.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Anims/zombie_death.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Anims/zombie_dying.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Anims/zombie_idle.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Anims/zombie_neck_bite.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Anims/zombie_run.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Anims/zombie_scream.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Anims/zombie_walk.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Textures/Ch10_1002_Specular.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Textures/Ch10_1002_Normal.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Textures/Ch10_1002_Glossiness.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Textures/Ch10_1002_Diffuse.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Textures/Ch10_1001_Specular.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Textures/Ch10_1001_Normal.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Textures/Ch10_1001_Glossiness.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Textures/Ch10_1001_Diffuse.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Materials/Ch10_body1.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Materials/Ch10_body.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Blueprints/BP_Zombie.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/LR/1L230GMQG87XMTV8LME6C1.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/ZW/T22601HXRBF273KBSZ38SH.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Meshes/Ch10_nonPBR.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Meshes/Ch10_nonPBR_Anim.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Meshes/Ch10_nonPBR_PhysicsAsset.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/Meshes/Ch10_nonPBR_Skeleton.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/AI/BB_Zombie.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/AI/BT_Zombie.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/AI/BP_ZombieAIController.uasset",
+				"C:/Users/jeany/OneDrive/Documentos/Unreal Projects/ProjetoUnreal/Content/Zombie/AI/BTS_UpdatePlayerInfo.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/ThirdPerson/Blueprints/BP_Projetil.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/ThirdPerson/Blueprints/WBP_HUD.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/FirstPerson/MI_FirstPersonColorway.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/Weapons/Pistol/Meshes/SM_Pistol.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/crosshair.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Equip.uasset",
+				"/home/ely/Documents/Unreal Projects/ProjetoRobson/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Unequip.uasset"
+			]
+		}
+	]
+>>>>>>> 3ce6670a3894abbd41e9f379a85057d5fb7a11a3
 }
